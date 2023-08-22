@@ -1,0 +1,12 @@
+.img-garpet {
+  position: absolute;
+  top: 23vh;
+  left: 30vw;
+  transition: rotate .1s;
+}
+
+.img-sock {
+  position: absolute;
+  top: 28vh;
+  left: 35vw;
+}
