@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import styles from '../styles/Home.module.css';
-import Homepage from './Homepage'
+import Homepage from './Homepage/index.tsx'
 
 export default function Home() {
   return (
